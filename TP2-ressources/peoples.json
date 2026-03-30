@@ -1,0 +1,97 @@
+[
+  {
+    "firstName": "Arsène",
+    "lastName": "Lupin",
+    "birthDate": null,
+    "height": 1.8,
+    "skills": [
+      "Cambriolage",
+      "Déguisement",
+      "Maîtrise de l'épée"
+    ],
+    "cry": null,
+    "closerCharacter": {
+      "firstName": "Clarisse",
+      "lastName": "d'Étigues"
+    }
+  },
+  {
+    "firstName": "Betty",
+    "lastName": "Boop",
+    "birthDate": "9 août 1930",
+    "height": 1.6,
+    "skills": [
+      "Chant",
+      "Danse",
+      "Comédie"
+    ],
+    "cry": "Boop-oop-a-doop",
+    "closerCharacter": {
+      "name": "Bimbo"
+    }
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Marley",
+    "birthDate": "6 février 1945",
+    "height": 1.68,
+    "skills": [
+      "Chant",
+      "Guitare",
+      "Composition musicale",
+      "Militantisme"
+    ],
+    "cry": "One love",
+    "closerCharacter": {
+      "firstName": "Rita",
+      "lastName": "Marley"
+    }
+  },
+  {
+    "firstName": "James",
+    "lastName": "Bond",
+    "birthDate": null,
+    "height": 1.83,
+    "skills": [
+      "Espionnage",
+      "Combat",
+      "Séduction",
+      "Maîtrise des armes à feu"
+    ],
+    "cry": "My name is Bond. James Bond.",
+    "closerCharacter": {
+      "name": "Miss Moneypenny"
+    }
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Skywalker",
+    "birthDate": "19 BBY",
+    "height": 1.75,
+    "skills": [
+      "Maîtrise de la force",
+      "Pilotage",
+      "Combat au sabre laser"
+    ],
+    "cry": "Que la force soit avec toi",
+    "closerCharacter": {
+      "name": "Princesse Leia"
+    }
+  },
+  {
+    "firstName": "Sherlock",
+    "lastName": "Holmes",
+    "birthDate": "6 janvier 1854",
+    "height": 1.85,
+    "skills": [
+      "Obervation",
+      "Raisonnement",
+      "Déduction"
+    ],
+    "cry": "Élémentaire mon cher Watson.",
+    "closerCharacter": {
+      "firstName": "John",
+      "lastName": "Watson"
+    }
+  }
+]

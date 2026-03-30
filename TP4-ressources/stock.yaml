@@ -1,0 +1,140 @@
+---
+name: Network Switch
+shortDescription: 8-Port Gigabit Network Switch
+reference: TLSG108
+brand: TP-Link
+price: 39.99
+quantity: 6
+---
+name: Wireless Extender
+shortDescription: AC750 Wi-Fi Range Extender
+reference: RE220
+brand: TP-Link
+price: 29.99
+quantity: 3
+---
+name: Network Security Appliance
+shortDescription: Firewall and VPN Appliance
+reference: SG2100
+brand: Netgate
+price: 399.99
+quantity: 2
+---
+name: Powerline Adapter
+shortDescription: AV1000 Powerline Starter Kit
+reference: TLPA7017
+brand: TP-Link
+price: 59.99
+quantity: 4
+---
+name: Network Interface Card
+shortDescription: Gigabit Ethernet Network Card
+reference: ST1000SPEXI
+brand: StarTech
+price: 24.99
+quantity: 2
+---
+name: Network Cable Tester
+shortDescription: Cat5e/Cat6 Cable Tester
+reference: NF308
+brand: NOYAFA
+price: 59.99
+quantity: 1
+---
+name: Fiber Optic Cable
+shortDescription: 10m LC to SC Fiber Optic Cable
+reference: 9125SM
+brand: Cable Matters
+price: 19.99
+quantity: 5
+---
+name: Managed PoE Switch
+shortDescription: 24-Port Managed PoE Switch
+reference: GS724TPv2
+brand: NETGEAR
+price: 299.99
+quantity: 2
+---
+name: Wireless Keyboard and Mouse Combo
+shortDescription: Wireless Keyboard and Mouse Combo
+reference: MK345
+brand: Logitech
+price: 49.99
+quantity: 1
+---
+name: HDMI Cable
+shortDescription: 10ft High Speed HDMI Cable
+reference: HDMM10
+brand: StarTech
+price: 14.99
+quantity: 10
+---
+name: Wireless Access Point
+shortDescription: Dual Band Wireless Access Point
+reference: EAP225
+brand: TP-Link
+price: 69.99
+quantity: 4
+---
+name: Network Attached Storage
+shortDescription: 2-Bay Network Attached Storage
+reference: DS220j
+brand: Synology
+price: 199.99
+quantity: 2
+---
+name: Smart Plug
+shortDescription: Smart Wi-Fi Plug
+reference: HS100
+brand: TP-Link
+price: 19.99
+quantity: 8
+---
+name: Video Doorbell
+shortDescription: Video Doorbell with Wi-Fi
+reference: VD100
+brand: Eufy
+price: 129.99
+quantity: 2
+---
+name: Wireless Mouse
+shortDescription: Wireless Mouse with Nano Receiver
+reference: M325
+brand: Logitech
+price: 29.99
+quantity: 3
+---
+name: USB Flash Drive
+shortDescription: 128GB USB 3.0 Flash Drive
+reference: PFD128
+brand: PNY
+price: 24.99
+quantity: 6
+---
+name: Wi-Fi Mesh System
+shortDescription: Whole Home Wi-Fi Mesh System
+reference: MX5300
+brand: Motorola
+price: 299.99
+quantity: 1
+---
+name: Network Video Recorder
+shortDescription: 16-Channel Network Video Recorder
+reference: NVR21616
+brand: Uniview
+price: 459.99
+quantity: 1
+---
+name: Wireless Presenter
+shortDescription: Wireless Presenter with Laser Pointer
+reference: R400
+brand: Logitech
+price: 49.99
+quantity: 2
+---
+name: USB-C Hub
+shortDescription: 7-in-1 USB-C Hub
+reference: GN28B
+brand: Anker
+price: 59.99
+quantity: 5
