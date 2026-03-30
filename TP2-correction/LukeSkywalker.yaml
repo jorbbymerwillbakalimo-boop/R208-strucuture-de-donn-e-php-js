@@ -1,0 +1,11 @@
+firstName: Luke
+lastName: Skywalker
+birthDate: 19 BBY
+height: 1.75
+skills:
+  - Maîtrise de la force
+  - Pilotage
+  - Combat au sabre laser
+cry: Que la force soit avec toi
+closerCharacter:
+  name: Princesse Leia

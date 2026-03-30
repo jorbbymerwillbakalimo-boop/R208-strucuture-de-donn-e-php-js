@@ -1,0 +1,12 @@
+firstName: Sherlock
+lastName: Holmes
+birthDate: 6 janvier 1854
+height: 1.85
+skills:
+  - Obervation
+  - Raisonnement
+  - Déduction
+cry: Élémentaire mon cher Watson.
+closerCharacter:
+  firstName: John
+  lastName: Watson

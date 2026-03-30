@@ -1,0 +1,12 @@
+firstName: James
+lastName: Bond
+birthDate: null
+height: 1.83
+skills:
+  - Espionnage
+  - Combat
+  - Séduction
+  - Maîtrise des armes à feu
+cry: My name is Bond. James Bond.
+closerCharacter:
+  name: Miss Moneypenny

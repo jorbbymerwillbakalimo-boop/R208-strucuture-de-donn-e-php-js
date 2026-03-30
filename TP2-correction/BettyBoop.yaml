@@ -1,0 +1,11 @@
+firstName: Betty
+lastName: Boop
+birthDate: 9 août 1930
+height: 1.6
+skills:
+  - Chant
+  - Danse
+  - Comédie
+cry: Boop-oop-a-doop
+closerCharacter:
+  name: Bimbo

@@ -1,0 +1,12 @@
+firstName: Arsène
+lastName: Lupin
+birthDate: null
+height: 1.8
+skills:
+  - Cambriolage
+  - Déguisement
+  - Maîtrise de l'épée
+cry: null
+closerCharacter:
+  firstName: Clarisse
+  lastName: d'Étigues
